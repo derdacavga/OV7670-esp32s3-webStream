@@ -8,7 +8,7 @@ This repository creting for 0V7670 camera live web streaming
 
 ---
 
-### 1. ILI9341 Display (SPI)
+### OV7670 to Esp32s3
 | Display Pin | ESP32-S3 GPIO | Function |
 | :--- | :--- | :--- |
 | PWDN_GPIO_NUM | connect to GND | - |
